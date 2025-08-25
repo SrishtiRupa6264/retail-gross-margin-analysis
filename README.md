@@ -39,7 +39,7 @@ An **interactive Tableau dashboard** was developed to present insights clearly t
   - Gross Margin by **Customer Segment** (to identify low-margin customers)  
   - Time-based analysis for trends in sales vs. margin  
 
-👉 Explore the dashboard here: [[Tableau Public Link](https://public.tableau.com/app/profile/srishti.rupa/viz/NL_Zara_17482049913240_17482573871610/ZARAGrossMarginInsights)](#) *(Insert your Tableau link)*  
+👉 Explore the dashboard here: [(https://public.tableau.com/app/profile/srishti.rupa/viz/NL_Zara_17482049913240_17482573871610/ZARAGrossMarginInsights)](#)
 
 ---
 

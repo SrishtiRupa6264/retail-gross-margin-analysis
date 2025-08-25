@@ -27,7 +27,6 @@ Key findings from the analysis:
 
 **Example Visualization:**  
 
-![Margin by Market](images/margin_by_market.png)  
 
 ---
 
